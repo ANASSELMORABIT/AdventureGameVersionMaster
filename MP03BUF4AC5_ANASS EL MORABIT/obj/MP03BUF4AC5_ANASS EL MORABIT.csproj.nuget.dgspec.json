@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anass\\OneDrive\\Desktop\\DAW-2\\Practicas-ANASS-EL-MORABIT\\M03\\MP03BUF4AC5_ANASS EL MORABIT\\MP03BUF4AC5_ANASS EL MORABIT.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anass\\OneDrive\\Desktop\\DAW-2\\Practicas-ANASS-EL-MORABIT\\M03\\MP03BUF4AC5_ANASS EL MORABIT\\MP03BUF4AC5_ANASS EL MORABIT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anass\\OneDrive\\Desktop\\DAW-2\\Practicas-ANASS-EL-MORABIT\\M03\\MP03BUF4AC5_ANASS EL MORABIT\\MP03BUF4AC5_ANASS EL MORABIT.csproj",
+        "projectName": "MP03BUF4AC5_ANASS EL MORABIT",
+        "projectPath": "C:\\Users\\anass\\OneDrive\\Desktop\\DAW-2\\Practicas-ANASS-EL-MORABIT\\M03\\MP03BUF4AC5_ANASS EL MORABIT\\MP03BUF4AC5_ANASS EL MORABIT.csproj",
+        "packagesPath": "C:\\Users\\anass\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anass\\OneDrive\\Desktop\\DAW-2\\Practicas-ANASS-EL-MORABIT\\M03\\MP03BUF4AC5_ANASS EL MORABIT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anass\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
